@@ -41,7 +41,7 @@ MOTA越高，代表一个Tracker综合性能越好，上限为100，下限负无
 
 MOTchallenge官网 列出了一些 [Evaluation Measures](https://motchallenge.net/results/MOT17/) 如下图。
 
-![Evaluation Measures](../sources/images/MOT_Benchmark_Evaluation Measures.png?raw=true "Title")
+![Evaluation Measures](../sources/images/MOT_Benchmark_Evaluation%20Measures.png)
 
 
 ## 参考文献
