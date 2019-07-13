@@ -40,6 +40,7 @@ MOTA越高，代表一个Tracker综合性能越好，上限为100，下限负无
 除此之外，多目标跟踪还有很多的评价指标，比如MOTP、IDF1、MT、ML、Frag等。作为入门，读者最需要关注的就是MOTA，其他指标可以等对MOT有了进一步了解后再关注。
 
 MOTchallenge官网 列出了一些 [Evaluation Measures](https://motchallenge.net/results/MOT17/) 如下图。
+
 ![Evaluation Measures](../sources/images/MOT_Benchmark_Evaluation Measures.png)
 
 
